@@ -1,9 +1,11 @@
 streamlit
-streamlit-folium
-folium
-joblib
-tensorflow
-scikit-learn
+pandas
+numpy
 requests
+tensorflow
 protobuf
+folium
+streamlit-folium
+joblib
+
 
