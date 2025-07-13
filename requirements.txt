@@ -1,11 +1,12 @@
-streamlit
-pandas
-numpy
-requests
-tensorflow
-protobuf
-folium
-streamlit-folium
-joblib
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+tensorflow==2.14.0
+protobuf==3.20.3
+folium==0.16.0
+streamlit-folium==0.18.0
+joblib==1.4.2
+
 
 
