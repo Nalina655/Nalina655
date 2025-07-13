@@ -7,6 +7,8 @@ protobuf==3.20.3
 folium==0.16.0
 streamlit-folium==0.18.0
 joblib==1.4.2
+gtfs-realtime-bindings==0.0.8
+
 
 
 
