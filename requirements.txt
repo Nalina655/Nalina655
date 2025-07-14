@@ -1,7 +1,6 @@
 streamlit==1.35.0
 pandas==2.2.1
-numpy
-tensorflow>=2.13  # or use 2.15.0 if fixed
+tensorflow==2.13.0
 folium
 joblib
 requests
